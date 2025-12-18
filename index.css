@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+     
+.container-fluid{
+    font-family: "Figtree", sans-serif;
+    height: 100vh !important;
+    background-color:  hsl(47, 88%, 63%);
+}
+.shadow-lg{
+    background-color:hsl(0, 0%, 7%) !important;
+}
+.card{
+     border: 1px solid hsl(0, 0%, 7%) !important; 
+}
+.btn{
+ font-size: 12px !important;
+  background-color:  hsl(47, 88%, 63%) !important;
+}
+.card-text{
+    font-size: 13px !important;
+}
+.card-text.Published{
+    color:  hsl(0, 0%, 7%) !important;
+    font-weight: 500;
+     font-size: 12px !important;
+}
+.card-title, .card-name{
+     color:  hsl(0, 0%, 7%) !important;
+    font-weight: 800;
+}
+.card-title:hover{
+    color:  hsl(47, 88%, 63%) !important;
+    cursor: pointer;
+    font-size: 23px !important;
+}
+.second-p{
+color:  hsl(0, 0%, 42%) !important;
+}
+.card-name{
+    font-size: 12px !important;
+}
+@media screen {
+    
+}
